@@ -22,7 +22,7 @@ index.js: O arquivo de entrada da aplicação.
 PokemonForm.js: Esta redenrizando um formulário que permite aos usuários digitar o nome de um Pokémon que desejam buscar.
 PokemonInfo.js: Este componente é responsável por exibir informações sobre um Pokémon, como sua imagem, nome, número, peso e altura. 
 
-Aplicação online: 
+Aplicação online: pokemon-pokedex-30243f.netlify.app
 
 # Autor
 Este projeto foi desenvolvido por Ana Beatriz Ramos dos Santos.
